@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me t.me/Gaurav_Pandey722
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am a Overthinker
+- ⚡ Fun fact: I am an Overthinker
 
 <!---
 Coder-Gaurav997/Coder-Gaurav997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
