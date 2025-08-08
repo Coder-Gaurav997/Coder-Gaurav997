@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Coder-Gaurav997
-- 👀 I’m interested in Coding and Hacking
+- 👋 Hi, I’m @Coder-Gaurav997 aka Mr. Def@ult
+- 👀 I’m interested in Coding, AI and Hacking
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on Github
+- 💞️ I’m looking to collaborate on Github, Telegram and Youtube
 - 📫 How to reach me t.me/Gaurav_Pandey722
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am an Overthinker
