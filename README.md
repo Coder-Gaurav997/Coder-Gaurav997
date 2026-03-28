@@ -32,7 +32,7 @@
 ---
 
 ### 🧠 Organisation  
-Founder & Owner of DarkNeuronAI
+✨ Founder & Owner of ***DarkNeuronAI***  
 > *Building and innovating in AI & Technology*
   
 <!---
