@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Gaurav Pandey (Mr. Def@ult)</h1>
+<h1 align="center"><b>👋 Hi, I'm Gaurav Pandey (Mr. Def@ult)</b></h1>
 <h3 align="center">🚀 AI & Cybersecurity Enthusiast | Python Developer | Founder of DarkNeuronAI</h3>
 
 ---
