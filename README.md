@@ -4,10 +4,9 @@
 ---
 
 ### 👤 About Me
-- 🎓 Student passionate about Programming, AI, and Cybersecurity  
+- 🎓 Student focused on AI, Cybersecurity, and Programming  
 - 🔭 Building projects in AI, LLMs, and Automation  
-- 🌱 Learning Machine Learning and advanced programming  
-- 💡 Goal: To create impactful solutions in AI and Cybersecurity  
+- 💡 Goal: Develop impactful AI-driven solutions  
 
 ---
 
@@ -15,27 +14,26 @@
 - 💻 Languages: Python, C  
 - 🤖 AI/ML: NumPy, Pandas, OpenCV, Scikit-learn  
 - 🔐 Cybersecurity: Networking, Ethical Hacking  
-- ⚙️ Tools: GitHub, VS Code, Kali Linux   
+- ⚙️ Tools: GitHub, VS Code, Kali Linux  
 
 ---
 
-### 🚀 Special Projects
-- 🔹 ZENTRIX - Custom-Built Programming Language  
-- 🔹 AKRO - Advanced Encryption Algorithm  
-- 🔹 JARVIS - Advanced Personal AI Assistant  
-*And Many More...*
+### 🚀 Projects
+- 🔹 ZENTRIX (Programming Language)  
+- 🔹 AKRO (Encryption Algorithm)  
+- 🔹 JARVIS (AI Assistant)  
 
 ---
 
-### 📫 Connect With Me
+### 📫 Contact
 - 📩 Telegram: https://t.me/Gaurav_Pandey722  
 - 📧 Email: [mr.hacker133032010@gmail.com](mailto:mr.hacker133032010@gmail.com)
 
 ---
 
-### 🧠 Organization
-Founder & Owner of **DarkNeuronAI**  
-> *"Focused on learning, building, and innovating in AI & Technology"*
+### 🧠 Organisation  
+Founder & Owner of DarkNeuronAI
+> *Building and innovating in AI & Technology*
   
 <!---
 Coder-Gaurav997/Coder-Gaurav997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
