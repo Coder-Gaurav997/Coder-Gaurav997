@@ -27,7 +27,7 @@
 
 ### 📫 Contact
 - 📩 Telegram: https://t.me/Gaurav_Pandey722  
-- 📧 Email: [mr.hacker133032010@gmail.com](mailto:mr.hacker133032010@gmail.com)
+- 📧 Email: [mr.hacker133032010@gmail.com](mailto:mr.hacker13032010@gmail.com)
 
 ---
 
