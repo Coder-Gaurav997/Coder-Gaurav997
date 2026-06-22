@@ -32,7 +32,7 @@
 ---
 
 ### 🧠 Organisation  
-✨ Founder & Owner of ***DarkNeuronAI***  
+✨ Founder & Chief AI Officer at ***[DarkNeuronAI](https:\\github.com\DarkNeuronAI)***  
 > *Building and innovating in AI & Technology*
   
 <!---
