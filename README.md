@@ -29,10 +29,10 @@
 - 📩 Telegram: https://t.me/Gaurav_Pandey722  
 - 📧 Email: [mr.hacker133032010@gmail.com](mailto:mr.hacker13032010@gmail.com)
 
----
+--- 
 
 ### 🧠 Organisation  
-✨ Founder & Chief AI Officer at ***[DarkNeuronAI](https:\\github.com\DarkNeuronAI)***  
+✨ Founder & Chief AI Officer at ***[DarkNeuronAI](https://github.com/DarkNeuronAI)***  
 > *Building and innovating in AI & Technology*
   
 <!---
