@@ -12,9 +12,9 @@
 
 ### 🛠️ Tech Stack
 - 💻 Languages: Python, C  
-- 🤖 AI/ML: NumPy, Pandas, OpenCV, Scikit-learn  
+- 🤖 AI/ML: Transformers, PyTorch, OpenCV, Scikit-learn  
 - 🔐 Cybersecurity: Networking, Ethical Hacking  
-- ⚙️ Tools: GitHub, VS Code, Kali Linux  
+- ⚙️ Tools: GitHub, VS Code, Kali Linux, HF  
 
 ---
 
